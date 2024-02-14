@@ -1,10 +1,12 @@
 # UI tests for Plumlife
 
+<u>Please note: waitFor() method is for demo purposes only!</u>
+
 Coding language = `Java 11'`
 
 Build tool = `Maven`
 
-This is a `Cucmber BDD` framework.
+This is a `Cucumber BDD` framework.
 
 ## To run all tests:
 
