@@ -37,5 +37,4 @@ public class HomePage {
         Select dropdown = new Select(dropdownElement);
         dropdown.selectByIndex(Integer.parseInt(numberOfBedrooms));
     }
-
 }

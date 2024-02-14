@@ -19,5 +19,4 @@ public class SearchResultsPage extends HomePage {
 
     @FindBy(id = "no-of-bedrooms")
     public WebElement NumberOfBedrooms;
-
 }

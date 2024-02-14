@@ -1,5 +1,5 @@
-@regression @login
-Feature: Login page
+@regression @search
+Feature: Search functionality
 
   Scenario: [1] Search property based on location
       Given user is on home page
